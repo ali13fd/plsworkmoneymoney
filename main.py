@@ -56,7 +56,7 @@ Config = {
     },
     "Rakeback" : 1.5, # Rakeback %
     "peanut_cookie4": "peanut_cookie4", # The Username Of The Account Running The Bot
-    "DiscordBotToken": "MTM0MTc1NTQ1ODg4NDYwMzkzNA.GaFFUj.bXU0UHgJaMrqrWt-fcQzXDOwyFQNyR1WWG1-IQ" # The token of the discord bot
+    "DiscordBotToken": "MTM0MTc1NTQ1ODg4NDYwMzkzNA.GN1CDt.-1wpWkln1dGPxrTUgXXS75EN8M6pb0FWQlzhf8" # The token of the discord bot
 }
 username = Config['Username']
 
